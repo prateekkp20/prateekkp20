@@ -8,6 +8,6 @@
 <br />
 
 ### Connect with me:
-[facebook](https://www.facebook.com/prateek.kumarpandey.18/)
-[Linkedin](https://www.linkedin.com/in/prateek-kumar-pandey-6422081ba/)
+- [facebook](https://www.facebook.com/prateek.kumarpandey.18/)
+- [Linkedin](https://www.linkedin.com/in/prateek-kumar-pandey-6422081ba/)
 

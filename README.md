@@ -1,18 +1,11 @@
 # Hello world 👋
-### I am Prateek Kumar Pandey.
+## I am Prateek Kumar Pandey.
 - 🌱 I’m currently learning c, python, rust etc.
 - 🤔 I’m looking for help with a lot of things in life :neutral_face:
 - 👯 I’m looking to collaborate on nothing yet.
 - I am a pro-procrastinating person. 😴
-
-
-
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkp20&theme=radical)](https://github.com/github-readme-stats.vercel.api/top-langs?username=prateekkp20)-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prateekkp20&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea"><br>
-
-
-
-### Connect with me:
+<hr>
+##  Connect with me:
 <!-- [Facebook](https://www.facebook.com/prateek.kumarpandey.18/)
 - [Linkedin](https://www.linkedin.com/in/prateek-kumar-pandey-6422081ba/)
 -->
@@ -30,3 +23,7 @@
  <img src="https://img.shields.io/github/followers/prateekkp20?label=follow&style=social" />
  </a>
 </p>
+<hr>
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkp20&theme=radical)](https://github.com/github-readme-stats.vercel.api/top-langs?username=prateekkp20)-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prateekkp20&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
+

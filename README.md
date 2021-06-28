@@ -8,7 +8,7 @@
 
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkp20&theme=radical)](https://github.com/github-readme-stats.vercel.api/top-langs?username=prateekkp20)-->
-<img <!--align="right"--> src="https://github-readme-stats.vercel.app/api?username=prateekkp20&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=prateekkp20&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
 
 
 

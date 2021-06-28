@@ -27,6 +27,6 @@
  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prateek-kumar-pandey-6422081ba/"  />
  </a>
  <a href="https://github.com/prateekkp20">
- <img src="https://img.shields.io/github/prateekkp20?label=follow&style=social" />
+ <img src="https://img.shields.io/github/followers/prateekkp20?label=follow&style=social" />
  </a>
 </p>

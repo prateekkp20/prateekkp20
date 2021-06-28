@@ -26,5 +26,7 @@
 </p>
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekkp20&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekkp20&count_private=true&show_icons=true&theme=dracula"/>
+</p>
 

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c, python, rust etc.
 - 🤔 I’m looking for help with a lot of things in life :neutral_face:
 - 👯 I’m looking to collaborate on nothing yet.
-- You can support me by buying me a dinner.
+- I am a pro-procrastinating person. 😴
 <br />
 
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekkp20&count_private=true&include_all_commits=true&theme=radical)](https://google.com)

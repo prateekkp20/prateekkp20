@@ -5,11 +5,12 @@
 - 👯 I’m looking to collaborate on nothing yet.
 - I am a pro-procrastinating person. 😴
 
-<br>
+
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkp20&theme=radical)](https://github.com/github-readme-stats.vercel.api/top-langs?username=prateekkp20)-->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=prateekkp20&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
-<br/>
+
+
 
 ### Connect with me:
 - [Facebook](https://www.facebook.com/prateek.kumarpandey.18/)

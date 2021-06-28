@@ -5,6 +5,7 @@
 <br />
 
 [![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekkp20&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkp20&theme=light)](https://github.com/prateekkp20/github-readme-stats.vercel.api/top-langs?username=prateekkp20)
 <br />
 
 ### Connect with me:

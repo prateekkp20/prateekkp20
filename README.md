@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning c, python, rust etc.
 - 🤔 I’m looking for help with a lot of things in life :neutral_face:
 - 👯 I’m looking to collaborate on nothing yet.
-- I am a pro-procrastinating person. 😴
 <hr>
 
 ##  Connect with me:

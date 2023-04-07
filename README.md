@@ -16,7 +16,7 @@
  <a href="https://facebook.com/prateek.kumarpandey.18/" target="_blank">
  <img src="https://img.shields.io/badge/-Facebook-116BBC?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/prateek.kumarpandey.18/" /> 
  </a>
- <a href="https://www.linkedin.com/in/prateek-kumar-pandey-6422081ba/" target="_blank">
+ <a href="https://www.linkedin.com/in/prateekkp20/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prateek-kumar-pandey-6422081ba/"  />
  </a>
  <a href="https://github.com/prateekkp20" target="_blank">
